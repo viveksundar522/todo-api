@@ -26,4 +26,3 @@ This is a simple RESTful API for managing a to-do list using Django and Django R
 
 ```bash
 git clone https://github.com/vivek/todo-api.git
-cd your-repo-name
